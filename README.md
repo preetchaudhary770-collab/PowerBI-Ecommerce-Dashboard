@@ -31,6 +31,23 @@ The objective of this project is to help business stakeholders:
 - User-friendly dashboard layout for business decision-making
 - Drill-down analysis using interactive visuals
 
+## 📷 Dashboard Preview
+
+### Yearly Dashboard
+![Yearly Dashboard](Yearly Dashboard.jpg)
+
+### Q1 Dashboard
+![Q1 Dashboard](Q1 Dashboard.jpg)
+
+### Q2 Dashboard
+![Q2 Dashboard](Q2 Dashboard.png)
+
+### Q3 Dashboard
+![Q3 Dashboard](Q3 Dashboard.png)
+
+### Q4 Dashboard
+![Q4 Dashboard](Q4 Dashboard.png)
+
 ## 💡 Key Insights
 - Sales trends across different quarters.
 - Profit analysis by category.
