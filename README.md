@@ -74,3 +74,10 @@ The objective of this project is to help business stakeholders:
 - KPI Development
 - Business Insights
 - Dashboard Design
+
+  ## 👤 Author
+
+**Preet Chaudhary**
+
+- LinkedIn: www.linkedin.com/in/preetchaudharymba
+- GitHub: https://github.com/preetchaudhary770-collab
