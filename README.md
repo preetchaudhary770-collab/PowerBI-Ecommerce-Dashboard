@@ -77,7 +77,7 @@ The objective of this project is to help business stakeholders:
 - Business Insights
 - Dashboard Design
 
-  ## 👤 Author
+## 👤 Author
 
 **Preet Chaudhary**
 
