@@ -35,23 +35,23 @@ The objective of this project is to help business stakeholders:
 
 ### Overall Dashboard
 
-![Overall Dashboard](Yearly%20Dashboard.jpg)
+![Overall Dashboard](Dashboard%20Screenshots/Yearly%20Dashboard.jpg)
 
 ### Quarter 1
 
-![Quarter 1 Dashboard](Q1%20Dashboard.jpg)
+![Quarter 1 Dashboard](Dashboard%20Screenshots/Q1%20Dashboard.jpg)
 
 ### Quarter 2
 
-![Quarter 2 Dashboard](Q2%20Dashboard.png)
+![Quarter 2 Dashboard](Dashboard%20Screenshots/Q2%20Dashboard.png)
 
 ### Quarter 3
 
-![Quarter 3 Dashboard](Q3%20Dashboard.png)
+![Quarter 3 Dashboard](Dashboard%20Screenshots/Q3%20Dashboard.png)
 
 ### Quarter 4
 
-![Quarter 4 Dashboard](Q4%20Dashboard.png)
+![Quarter 4 Dashboard](Dashboard%20Screenshots/Q4%20Dashboard.png)
 
 ## 💡 Key Insights
 - Sales trends across different quarters.
@@ -60,13 +60,25 @@ The objective of this project is to help business stakeholders:
 - Product performance analysis.
 - Regional sales performance.
 
-## 📂 Project Files
+## 📂 Project Structure
 
-- `Sales Dashboard.pbix`
-- `Dataset`
-  - `Orders.csv`
-  - `Details.csv`
-- Dashboard screenshots
+```
+PowerBI-E-Commerce-Dashboard
+│
+├── Dataset
+│   ├── Orders.csv
+│   └── Details.csv
+│
+├── Dashboard Screenshots
+│   ├── Yearly Dashboard.jpg
+│   ├── Q1 Dashboard.jpg
+│   ├── Q2 Dashboard.png
+│   ├── Q3 Dashboard.png
+│   └── Q4 Dashboard.png
+│
+├── Sales Dashboard.pbix
+└── README.md
+```
 
 ## 🚀 Skills Demonstrated
 - Data Cleaning
@@ -81,5 +93,5 @@ The objective of this project is to help business stakeholders:
 
 **Preet Chaudhary**
 
-- LinkedIn: www.linkedin.com/in/preetchaudharymba
-- GitHub: https://github.com/preetchaudhary770-collab
+- **LinkedIn:** https://www.linkedin.com/in/preetchaudharymba
+- **GitHub:** https://github.com/preetchaudhary770-collab
