@@ -61,10 +61,12 @@ The objective of this project is to help business stakeholders:
 - Regional sales performance.
 
 ## 📂 Project Files
-- Sales Dashboard.pbix
-- Orders.csv
-- Details.csv
-- Dashboard Screenshots
+
+- `Sales Dashboard.pbix`
+- `Dataset`
+  - `Orders.csv`
+  - `Details.csv`
+- Dashboard screenshots
 
 ## 🚀 Skills Demonstrated
 - Data Cleaning
